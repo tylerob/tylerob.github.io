@@ -6,3 +6,7 @@ body {
   text-align: center; 
   color: white;
 }
+
+p {
+  font-size: 10px
+}
